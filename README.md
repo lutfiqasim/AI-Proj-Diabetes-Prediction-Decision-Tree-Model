@@ -1,5 +1,6 @@
 # Diabetes Prediction Decision Tree Model
 This project implements a decision tree-based model to predict diabetes using health-related features. The Python script processes diabetes-related data, creates and trains decision tree classifiers, evaluates their accuracy, and visualizes decision tree graphs. It provides a user-friendly command-line interface for various interactions.
+Please note that the provided script can be further improved and extended for more advanced features, optimizations, and user interactions.
 
 ## Features
 
